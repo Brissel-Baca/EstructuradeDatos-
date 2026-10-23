@@ -8,3 +8,7 @@ Num. de control:25410143 \
 Carrera:Ingenieria en sistemas computacionales \
 
 Materia:Estructura de Datos \
+
+Semestre:tercer semestre \
+
+Maestra:Myrna Villegas Gaytán \
