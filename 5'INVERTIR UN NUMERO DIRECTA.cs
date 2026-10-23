@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Invertir el orden de los dígitos de un número entero positivo mediante llamadas recursivas.
+using System;
 
 class Program
 {

@@ -1,5 +1,4 @@
-﻿//CALCULAR EL FACTORIAL DE UN NUMERO NO NEGATIVO USANDO RECUSRIVIDAD
-
+﻿// Determine el valor de una posición (entre 0 y 40).
 using System;
 
 class program
