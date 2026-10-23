@@ -1,14 +1,14 @@
 # EstructuradeDatos-
 ## Datos del alumno 
 
-Nombre: Brissel Alejandra Baca Garcia 
+Nombre: Brissel Alejandra Baca Garcia
 
-Num. de control:25410143 
+Num. de control: 25410143 
 
-Carrera:Ingenieria en sistemas computacionales 
+Carrera: Ingenieria en sistemas computacionales 
 
-Materia:Estructura de Datos 
+Materia: Estructura de Datos 
 
-Semestre:tercer semestre 
+Semestre: Tercer semestre 
 
-Maestra:Myrna Villegas Gaytán 
+Maestra: Myrna Villegas Gaytán 
